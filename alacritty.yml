@@ -68,7 +68,7 @@ window:
   #
   # Window opacity as a floating point number from `0.0` to `1.0`.
   # The value `0.0` is completely transparent and `1.0` is opaque.
-  opacity: 0.6
+  opacity: 0.9
 
   # Startup Mode (changes require restart)
   #
@@ -153,6 +153,7 @@ font:
     # If the bold italic family is not specified, it will fall back to the
     # value specified for the normal font.
     family: whowatch
+    # family: FiraCode Nerd Font
 
     # The `style` can be specified to pick a specific face.
     style: Regular
@@ -208,7 +209,7 @@ colors:
   # affected cell, or hexadecimal colors like #ff00ff.
   cursor:
     text: '#ffffff'
-    cursor: '#ff00ff'
+    cursor: '#4c88b5'
 
   # Vi mode cursor colors
   #
