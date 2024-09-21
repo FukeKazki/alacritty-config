@@ -1,5 +1,6 @@
 import = [
-    "~/.config/alacritty/tokyonight.toml"
+    # "~/.config/alacritty/tokyonight.toml"
+    "~/.config/alacritty/catppuccin-frappe.toml"
 ]
 
 [colors]
@@ -43,7 +44,7 @@ multiplier = 3
 decorations = "Buttonless"
 dynamic_title = true
 dynamic_padding = true
-opacity = 0.9
+opacity = 1
 
 [window.padding]
 x = 16
