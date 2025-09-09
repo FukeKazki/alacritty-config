@@ -6,14 +6,14 @@ draw_bold_text_with_bright_colors = false
 TERM = "xterm-256color"
 
 [font]
-size = 16
+size = 10
 
 [font.bold]
-family = "Maple Mono"
+family = "FiraCode Nerd Font"
 style = "Bold"
 
 [font.bold_italic]
-family = "Maple Mono"
+family = "FiraCode Nerd Font"
 style = "Bold Italic"
 
 [font.glyph_offset]
@@ -21,11 +21,11 @@ x = 0
 y = 0
 
 [font.italic]
-family = "Maple Mono"
-style = "italic"
+family = "FiraCode Nerd Font"
+style = "Italic"
 
 [font.normal]
-family = "Maple Mono"
+family = "FiraCode Nerd Font"
 style = "Regular"
 
 [font.offset]
